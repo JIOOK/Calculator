@@ -1,4 +1,4 @@
-Microsoft Visualc++プログラムを実行する。
+Microsoft Visual C++プログラムを実行する。
 ソースコードを聞く
 １＋２※３を入力する
 結果が出る
